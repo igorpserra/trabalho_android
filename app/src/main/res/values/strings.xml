@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TarefasApp</string>
+    <string name="add_tarefa">Adicionar Tarefa</string>
+    <string name="button_send">Adicionar</string>
+</resources>
